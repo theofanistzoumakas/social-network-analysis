@@ -58,22 +58,22 @@ f = open(“your_source_file”) //line 36
 5. You will recommended to type a number N. This number will split the data into N datasets.
 6. Then view for the first split dataset the minimum time, maximum time, time duration, the first five timestamps.
 7. For the first time period see:
- - Adjacency matrix.
- - Graph representation of centralities:
-   - Degree Centrality
-   - In-Degree Centrality
-   - Out-Degree Centrality
-   - Closeness Centrality
-   - Betweenness Centrality
-   - Eigenvector Centrality
-   - Katz Centrality
-  - See matrices $`Ε^*[t_{j-1},t_j]`$, $`V^*[t_{j-1},t_{j+1}]`$ and $`Ε^*[t_j,t_{j+1}]`$
-    - And for $`V^*`$ see:
-       - Graph Distance (Sgd)
-		     - Common Neighbors (Scn)
-       - Jaccard’s Coefficient (Sjc)
-		     - Adamic / Adar (Sa)
-		     - Preferential Attachment (Spa)
+  - Adjacency matrix.
+  - Graph representation of centralities:
+    - Degree Centrality.
+    - In-Degree Centrality.
+    - Out-Degree Centrality.
+    - Closeness Centrality.
+    - Betweenness Centrality.
+    - Eigenvector Centrality.
+    - Katz Centrality.
+   - See matrices $`Ε^*[t_{j-1},t_j]`$, $`V^*[t_{j-1},t_{j+1}]`$ and $`Ε^*[t_j,t_{j+1}]`$.
+     - And for $`V^*`$ see:
+        - Graph Distance (Sgd).
+		- Common Neighbors (Scn).
+        - Jaccard’s Coefficient (Sjc).
+		- Adamic / Adar (Sa).
+		- Preferential Attachment (Spa).
 8. See the success rates, mean square error and absolute square error from using Least Squares algorithm.
 
 ## 🎯Purpose
