@@ -41,7 +41,7 @@ Before running the application, make sure your environment is properly configure
 1. Clone the repository (or download and decompress the ZIP file).
 ```bash
 git clone https://github.com/theofanistzoumakas/social-network-analysis.git
-   cd social-network-analysis
+cd social-network-analysis
 ```
 
 2. Specify the path to your dataset (make sure that your data are tuples with three elements -> (source node, destination node, timestamp))
