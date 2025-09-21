@@ -15,7 +15,7 @@ This project’s goal is to analyze a time-varying network.
    - Betweenness Centrality
    - Eigenvector Centrality
    - Katz Centrality
- - 🧮 Calculation of $Ε^*_{k-2}$ and  sets for , for every two temporally consecutive networks.
+ - 🧮 Calculation of $Ε^*[t_{j-1},j]$ and  sets for , for every two temporally consecutive networks.
  - 🔢 Calculation of similarity matrices for each pair of nodes and each set from :
    - Graph Distance (Sgd)
    - Common Neighbors (Scn)
