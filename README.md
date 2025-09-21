@@ -24,10 +24,9 @@ The purpose was to explore how useful information can be extracted from a social
 
 ## 🔒 Code Ownership & Usage Terms
 This project was created and maintained by:
-
-Theofanis Tzoumakas (@theofanistzoumakas)
-Konstantinos Pavlis (@kpavlis)
-Michael-Panagiotis Kapetanios (@KapetaniosMP)
+ - Theofanis Tzoumakas (@theofanistzoumakas)
+ - Konstantinos Pavlis (@kpavlis)
+ - Michael-Panagiotis Kapetanios (@KapetaniosMP)
 
 🚫 Unauthorized use is strictly prohibited.
 No part of this codebase may be copied, reproduced, modified, distributed, or used in any form without explicit written permission from the owners.
