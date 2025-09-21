@@ -1,14 +1,14 @@
-## Data Analysis on a Social Network
+# Data Analysis on a Social Network
 This project’s goal is to analyze a time-varying network.
 ℹ️ This project is not open source and does not grant any usage rights. For usage terms and legal information, see 🔒 Code Ownership & Usage Terms.
 
 
-# 🧠Technologies used:
+## 🧠Technologies used:
 -Python
 -Numpy
 -Sklearn
 
-# 🧰Prerequisites
+## 🧰Prerequisites
 
 Before running the application, make sure your environment is properly configured.
  - Python 3.9+ is recommended
@@ -17,11 +17,11 @@ Before running the application, make sure your environment is properly configure
  - Sci-kit learn
 
 
-# 🎯Purpose
+## 🎯Purpose
 The purpose was to explore how useful information can be extracted from a social network, regarding the properties of users as well as the relationships between them over a specific period of time. **This application is developed solely for academic and research purposes**.
 
 
-# 🔒 Code Ownership & Usage Terms
+## 🔒 Code Ownership & Usage Terms
 This project was created and maintained by:
 
 Theofanis Tzoumakas (@theofanistzoumakas)
