@@ -16,7 +16,7 @@ This project’s goal is to analyze a time-varying network.
    - Eigenvector Centrality
    - Katz Centrality
  - 🧮 Calculation of $Ε^*[t_{j-1},t_j]$, $V^*[t_{j-1},t_{j+1}]$ and $Ε^*[t_j,t_{j+1}]$ sets for $N=[1,N]$, for every two temporally consecutive networks.
- - 🔢 Calculation of similarity matrices for each pair of nodes and each set from $V^*\$ base don the edges of set $Ε^*[t_{j-1},j]$:
+ - 🔢 Calculation of similarity matrices for each pair of nodes and each set from $`V^*`$ base don the edges of set $Ε^*[t_{j-1},j]$:
    - Graph Distance (Sgd)
    - Common Neighbors (Scn)
    - Jaccard’s Coefficient (Sjc)
