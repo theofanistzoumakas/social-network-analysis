@@ -15,8 +15,8 @@ This project’s goal is to analyze a time-varying network.
    - Betweenness Centrality
    - Eigenvector Centrality
    - Katz Centrality
- - 🧮 Calculation of $\E^* = [t_j-1,t_j]$, $\V^* = [t_j-1,t_j+1]$ and $\E^* = [t_j,t_j+1]$ sets for t=$[1,N]$, for every two temporally consecutive networks.
- - 🔢 Calculation of similarity matrices for each pair of nodes and each set from $V^*$ based on the edges of set $\E^* = [t_j-1,t_j]$:
+ - 🧮 Calculation of $\E^* = \begin{bmatrix} t_{j-1},t_j \end{bmatrix}$, $\V^* = \begin{bmatrix} t_{j-1},t_{j+1} \end{bmatrix}$ and $\E^* = \begin{bmatrix} t_j,t_{j+1} \end{bmatrix}$ sets for t=$[1,N]$, for every two temporally consecutive networks.
+ - 🔢 Calculation of similarity matrices for each pair of nodes and each set from $V^*$ based on the edges of set $\E^* = \begin{bmatrix} t_{j-1},t_j \end{bmatrix}:
    - Graph Distance (Sgd)
    - Common Neighbors (Scn)
    - Jaccard’s Coefficient (Sjc)
