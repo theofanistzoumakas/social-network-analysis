@@ -5,9 +5,9 @@ This project’s goal is to analyze a time-varying network.
 
 
 ## 🧠Technologies used:
--Python
--Numpy
--Sklearn
+ - Python
+ - Numpy
+ - Sklearn
 
 ## 🧰Prerequisites
 
