@@ -76,6 +76,13 @@ f = open(“your_source_file”) //line 36
 		- Preferential Attachment (Spa).
 8. See the success rates, mean square error and absolute square error from using Least Squares algorithm.
 
+## 📷 Screenshots
+
+**_App Screens:_**  
+> <img width="250" height="160" alt="screenshot" src="assets/indicative_screenshot_for_centralities.png" />
+
+
+
 ## 🎯Purpose
 The purpose was to explore how useful information can be extracted from a social network, regarding the properties of users as well as the relationships between them over a specific period of time. **This application is developed solely for academic and research purposes**.
 
