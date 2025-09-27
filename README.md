@@ -78,7 +78,7 @@ f = open(“your_source_file”) //line 36
 
 ## 📷 Screenshots
 
-**_App Screens:_**  
+**_Indicative Screeenshot:_**  
 > <img width="250" height="160" alt="screenshot" src="assets/indicative_screenshot_for_centralities.png" />
 
 
